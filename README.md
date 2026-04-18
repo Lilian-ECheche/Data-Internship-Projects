@@ -1,5 +1,5 @@
 # Data Internship Projects – Group 3
-A portfolio of Data Analytics projects including HR Attrition Analysis and Northwind SQL &amp; Power BI dashboards, focused on business insights and decision-making.
+A portfolio of Data Analytics projects including HR Attrition Analysis and Northwind SQL &amp; Power BI dashboards, focused on business insights and decision making.
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql)
