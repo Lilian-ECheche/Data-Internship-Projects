@@ -1,0 +1,16 @@
+customer_id,company,recency,frequency,monetary
+28,Company BB,16,4,15432.5
+7,Company G,30,2,13800
+6,Company F,0,6,8007.5
+4,Company D,59,5,4949
+8,Company H,18,6,4683
+9,Company I,18,2,3786.5
+26,Company Z,18,2,3625.25
+29,Company CC,18,4,2905.5
+3,Company C,59,3,2550
+1,Company A,30,2,2410.75
+27,Company AA,62,2,1505
+10,Company J,30,4,1412.5
+12,Company L,62,2,1190
+11,Company K,30,2,1019.5
+25,Company Y,18,2,860
