@@ -1,0 +1,10 @@
+order_id,order_date,shipped_date,ship_name,ship_country_region
+41,"2006-03-24 00:00:00",NULL,"Ming-Yang Xie",USA
+43,"2006-03-24 00:00:00",NULL,"Peter Krschne",USA
+44,"2006-03-24 00:00:00",NULL,"Anna Bedecs",USA
+80,"2006-04-25 17:03:55",NULL,"Christina Lee",USA
+81,"2006-04-25 17:26:53",NULL,"Thomas Axen",USA
+68,"2006-05-24 00:00:00",NULL,"Ming-Yang Xie",USA
+69,"2006-05-24 00:00:00",NULL,"Roland Wacker",USA
+70,"2006-05-24 00:00:00",NULL,"Peter Krschne",USA
+71,"2006-05-24 00:00:00",NULL,"Anna Bedecs",USA
